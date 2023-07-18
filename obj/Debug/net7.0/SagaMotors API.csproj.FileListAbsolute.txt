@@ -1,0 +1,182 @@
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\appsettings.Development.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\appsettings.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.exe
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.deps.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.runtimeconfig.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.pdb
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Azure.Core.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.AssemblyInfo.cs
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.SagaMotors API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.build.SagaMotors API.props
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SagaMotors API.props
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SagaMotors API.props
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\scopedcss\bundle\SagaMotors API.styles.css
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.csproj.CopyComplete
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\refint\SagaMotors API.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.pdb
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.genruntimeconfig.cache
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\ref\SagaMotors API.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Ardalis.Specification.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\AutoMapper.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\MinimalApi.Endpoint.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\ApplicationCore.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\BlazorShared.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Infrastructure.dll
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\BlazorShared.pdb
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Infrastructure.pdb
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\ApplicationCore.pdb
+D:\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Ardalis.Specification.EntityFrameworkCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\appsettings.Development.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\appsettings.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\appsettings.test.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.exe
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.runtimeconfig.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\SagaMotors API.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Ardalis.GuardClauses.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Ardalis.Specification.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Ardalis.Specification.EntityFrameworkCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\AutoMapper.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Azure.Core.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Azure.Identity.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Humanizer.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\JetBrains.Annotations.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\MinimalApi.Endpoint.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.CodeDom.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\ApplicationCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\BlazorShared.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Infrastructure.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\BlazorShared.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\Infrastructure.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\bin\Debug\net7.0\ApplicationCore.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.csproj.AssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.SagaMotors API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.build.SagaMotors API.props
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SagaMotors API.props
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SagaMotors API.props
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets.build.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\staticwebassets.development.json
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\scopedcss\bundle\SagaMotors API.styles.css
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\refint\SagaMotors API.dll
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\SagaMotors API.genruntimeconfig.cache
+D:\OneDrive - Escuela Politécnica Nacional\Documentos\Developer\Visual Studio Projects\CSharp\SagaMotors Project\SagaMotors API\obj\Debug\net7.0\ref\SagaMotors API.dll
